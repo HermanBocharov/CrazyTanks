@@ -1,0 +1,20 @@
+﻿  ConsoleApp.cpp
+  Enemy.cpp
+  Field.cpp
+  Game.cpp
+Game.cpp(73): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Game.cpp(172): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(298): warning C4018: '<': signed/unsigned mismatch
+  GameObject.cpp
+  main.cpp
+  Player.cpp
+  Projectile.cpp
+  Tank.cpp
+  Wall.cpp
+  Generating code
+  513 of 519 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CrazyTanks.vcxproj -> C:\Users\Home\Desktop\CrazyTanks\Release\CrazyTanks.exe
